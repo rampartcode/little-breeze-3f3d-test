@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "little-breeze-3f3d-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4b6e8929-5998-495b-8512-e83c12e3a255",
+      "database_name": "orange-bread-7a17-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
